@@ -5,6 +5,6 @@
 
 
 General Information
-[![Colderry's github stats](https://github-readme-stats.vercel.app/api?username=colderry&theme=gotham&show_icons=true)](https://github.com/AKALolGamer/github-readme-stats)
+[![CAKALolGamer's Github Stats](https://github-readme-stats.vercel.app/api?username=colderry&theme=gotham&show_icons=true)](https://github.com/AKALolGamer/github-readme-stats)
 
 
