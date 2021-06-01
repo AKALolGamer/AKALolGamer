@@ -3,7 +3,7 @@
 <h2>My General Information</h2>
 
 ```js
-const AKALolGamer = {
+var AKALolGamer = {
     Age: 15,
     Description: "Hi, My name is Aeniv. I am a 15 y/o. I make stuff like bots and stuff!",
     FavouriteLanguages: "Javascript/Python/Html,Css",
@@ -18,7 +18,17 @@ const AKALolGamer = {
     FavouriteThings: ["Github", "Visual Studio Code", "Replit"]
 }; //Thanks
 ```
-Github Stats
+
+```js
+var Contact = {
+   Email: shrestha.aeniv@gmail.com
+};
+```
+
+Discord: [Click Me](https://discord.com/users/827062335620382751)
+
+
+
 [![AKALolGamer's Github Stats](https://github-readme-stats.vercel.app/api?username=AKALolGamer&theme=gotham&show_icons=true)](https://github.com/AKALolGamer/github-readme-stats)
 
 
