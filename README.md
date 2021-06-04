@@ -8,7 +8,7 @@ var AKALolGamer = {
     Description: "Hi, My name is Aeniv. I am a 15 y/o. I make stuff like bots and stuff!",
     FavouriteLanguages: "Javascript/Python/Html,Css",
     Hobbies: "Playing Games, Playing outdoor games, Coding."
-    Living at: "Nepal"
+    Living_at: "Nepal"
     Repositories: {
        Created: 6,
        Contributed: 0 😅,
